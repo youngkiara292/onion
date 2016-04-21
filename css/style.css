@@ -1,0 +1,24 @@
+/* ➀ Make the main headline dark green ➁ Use the font family "Georgia" for the main headline and the subheadline 
+➂ Center the text of the main headline and the subheadline 
+➃ Make the paragraphs have a line height of 19 pixels 
+➄ Make the "You might also like" label all uppercase 
+➅ Bonus: Remove the underline from the links 
+➆ Bonus: Make an underline appear when you hover over a link */
+
+body{
+	background-color: white;
+}
+
+h1{
+	color: green;
+}
+h2{
+	color:black;
+}
+h3{
+	color: black;
+}
+h1, h2 {
+	font-family: georgia, sans-serif;
+	text-align: 19px;
+}
